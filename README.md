@@ -1,5 +1,5 @@
-# Petstagram App + short description
-_A Django web app helping travelers plan trips and share experiences._
+# Petstagram App
+_A Django web app helping users share their pet photos._
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ _A Django web app helping travelers plan trips and share experiences._
 1. Clone the repo
 
 ```bash
-git clone https://github.com/[username]/travelmate.git
+git clone https://github.com/[username]/petstagram.git
 ```
 
 2. Install dependencies
@@ -23,8 +23,8 @@ git clone https://github.com/[username]/travelmate.git
 [run command]
 
 ## Features
-_• Destination search  
-• Trip planner  
+_• Pet search  
+• Comments and likes  
 • User authentication_
 
 ## Credits
